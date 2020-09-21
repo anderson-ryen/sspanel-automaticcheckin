@@ -15,12 +15,12 @@ requests.packages.urllib3.disable_warnings()
 class SspanelQd(object):
     def __init__(self):
         # 机场地址
-        self.base_url = 'https://*****.net'
+        self.base_url = 'https://zuisucloud.cloud/'
         # 登录信息
-        self.email = '*********@qq.com'
-        self.password = '****'
+        self.email = 'nzbr494904@163.com'
+        self.password = '1594959462'
         # Server酱推送（可空）
-        self.sckey = ''
+        self.sckey = 'SCU113994Te2b85a9b28696b0b7feae347b67d97c55f61aef9ae3ed'
         # 酷推qq推送（可空）
         self.ktkey = ''
 
