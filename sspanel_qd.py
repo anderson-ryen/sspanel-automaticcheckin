@@ -17,7 +17,7 @@ class SspanelQd(object):
         # 机场地址
         self.base_url = 'https://zuisucloud.cloud/'
         # 登录信息
-        self.email = 'nzbr494904@163.com'
+        self.email = '1594959462@gmail.com'
         self.password = '1594959462'
         # Server酱推送（可空）
         self.sckey = 'SCU113994Te2b85a9b28696b0b7feae347b67d97c55f61aef9ae3ed'
